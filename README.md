@@ -60,8 +60,18 @@
 
 ## Output:
 
-### Name: 
-### Register Number:
+<img width="1425" height="949" alt="image" src="https://github.com/user-attachments/assets/51af6ef1-b332-4633-a396-3349716de42e" />
+
+
+<img width="1079" height="764" alt="image" src="https://github.com/user-attachments/assets/975c58b8-c5c9-4de5-bd2e-c6bc47f52efc" />
+
+
+<img width="904" height="785" alt="image" src="https://github.com/user-attachments/assets/5705e96c-cdfb-43e5-8df2-e84b13434c60" />
+
+
+
+### Name: HARI V
+### Register Number: 212225040106
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
